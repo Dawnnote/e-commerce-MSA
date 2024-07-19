@@ -7,7 +7,7 @@
 
 # 프로젝트 소개 <img src="https://img.shields.io/badge/2024.06 ~ 2024.07-515151?style=flat"> 
 
-#### 상품을 (선착순)구매 할 수 있는MSA기반의 E-commerce 서비스입니다.
+#### 이벤트 상품을 (선착순)구매 할 수 있는MSA기반의 E-commerce 서비스입니다.
 
 <br/>
 
