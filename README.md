@@ -27,7 +27,7 @@
 <br/>
 <br/>
 
-## 아키텍처
+## Architecture
 
 <img src="https://github.com/user-attachments/assets/015a89ec-6d24-488b-81f3-caa08eb45249" width="85%" height="85%"/>
 
