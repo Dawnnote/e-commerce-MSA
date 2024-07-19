@@ -33,7 +33,7 @@
 
 <br/>
 
-## API 명세
+## API 문서
 
 [Postman API : e-commerce_msa-project](https://documenter.getpostman.com/view/26470751/2sA3kUFgqS)
 
