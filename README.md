@@ -1,6 +1,6 @@
 #  E-Commerce Market
 
-<img src="https://github.com/user-attachments/assets/bb072ed0-2b7e-4228-a4e2-dcefffebc68d" width="80%" height="80%"/>
+<img src="https://github.com/user-attachments/assets/bb072ed0-2b7e-4228-a4e2-dcefffebc68d" width="70%" height="70%"/>
 
 <br/>
 
